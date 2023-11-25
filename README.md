@@ -18,10 +18,11 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 
 ## 💻 Link do Site
 
+[--LINK--](https://gabriell-braga.github.io/MedNet/) 
 
-[--LINK--](https://ufubr-my.sharepoint.com/:v:/g/personal/antonio-emilio_6_ufu_br/Ee_06F-t4gpMqzMeE7ksmr0BJMdY_G4qvsEY6QOiDSSqRw?e=4vmLst) 🤝 Criador
+🤝 Criadores
 
-Criador deste projeto:
+Criadores deste projeto:
 
 <table>
   <tr>
