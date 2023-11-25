@@ -4,7 +4,7 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/Gabriell-Braga/PPI_GabrielBraga?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/Gabriell-Braga/PPI_GabrielBraga?style=for-the-badge)
 
-<img src="assets/img/imagem-site.png" alt="imagem-site">
+<img src="assets/img/imagem-readme.png" alt="imagem-site">
 
 > Site Criado para Simular um Dashboard de um Hospital, com o objetivo da realização do Trabalho De Programação para a Internet 2.
 
