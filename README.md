@@ -12,21 +12,21 @@
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
-- [ ] Aplicar JS
-- [ ] Melhorar CSS
-- [ ] Melhorar HTML
+- [X] Aplicar JS
+- [X] Melhorar CSS
+- [X] Melhorar HTML
 
 ## 💻 Link do Site
 
---LINK--
-[##](https://ufubr-my.sharepoint.com/:v:/g/personal/antonio-emilio_6_ufu_br/Ee_06F-t4gpMqzMeE7ksmr0BJMdY_G4qvsEY6QOiDSSqRw?e=4vmLst) 🤝 Criador
+
+[--LINK--](https://ufubr-my.sharepoint.com/:v:/g/personal/antonio-emilio_6_ufu_br/Ee_06F-t4gpMqzMeE7ksmr0BJMdY_G4qvsEY6QOiDSSqRw?e=4vmLst) 🤝 Criador
 
 Criador deste projeto:
 
 <table>
   <tr>
     <td align="center">
-      <a href="#">
+      <a href="https://github.com/Gabriell-Braga">
         <img src="https://avatars.githubusercontent.com/u/73250873?v=4" width="100px;" alt="Foto do Gabriel Braga no GitHub"/><br>
         <sub>
           <b>Gabriel Braga</b>
@@ -38,6 +38,22 @@ Criador deste projeto:
         <img src="https://avatars.githubusercontent.com/u/69806054?s=400&u=4c846bb98981db7af450fd8d9a1636fc01df470e&v=4" width="100px;" alt="Foto de Guilherme Fernandes no github"/><br>
         <sub>
           <b>Guilherme Fernandes</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Anton0910">
+        <img src="https://avatars.githubusercontent.com/u/59815698?v=4" width="100px;" alt="Foto do Antonio Emilio no GitHub"/><br>
+        <sub>
+          <b>Antonio Emilio</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/2xTi">
+        <img src="https://avatars.githubusercontent.com/u/111758048?v=4" width="100px;" alt="Foto do Tiago Reis no GitHub"/><br>
+        <sub>
+          <b>Tiago Reis</b>
         </sub>
       </a>
     </td>
